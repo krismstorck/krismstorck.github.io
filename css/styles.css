@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    background: #002B36;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    background: transparent;
+    width: 240px;
+    border: 0;
+    cursor: pointer;
+    padding: 0;
+}
+    
+    
+.ear-right-outside, .ear-left-outside {fill:#3e494f;}
+.ear-right-inside, .ear-left-inside {fill:#3e3c3b;}
+.body {fill:#5a656d;}
+.undercoat {fill:#898786;}
+.head {fill:#eee8d4;}
+.eye-left-inside, .eye-right-inside {fill:#18131e;}
+.eye-left-outside, .eye-right-outside {fill:#fff;}
+.eyeball-left, .eyeball-right {fill:#fff;}
+.nose {fill:#ecaab6;}
+.mouth-inside {fill:#f5f0db;}
+.mouth-outside {fill:#ecaab6;}
+.teeth {fill:#fff;}
+.tongue {fill:#812d2f;}
+.jaw {fill:#f5f0db;}
+.foot {fill:#3e3c3b;}
+.tail {fill:#cdcfd0}
